@@ -179,9 +179,9 @@ dependencies = [
 
 [[package]]
 name = "clap-cargo"
-version = "0.6.1"
+version = "0.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c577d31f9cb28e3d7a1a8ed7df1e45e58c5446f80e446fcdebe0a18261d68135"
+checksum = "ecf0491df1737c5ab5f725968716b1509dedb7dbaf289cf6eede74460b100bfc"
 dependencies = [
  "cargo_metadata",
  "doc-comment",
